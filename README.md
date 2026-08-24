@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**MartinAwaludin111/MartinAwaludin111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, Saya Martin! 👋
 
-Here are some ideas to get you started:
+Seorang mahasiswa Informatika yang tertarik dengan dunia *software development*, pemrograman jaringan, dan eksplorasi teknologi. Suka ngoprek kode, bikin proyek web, dan mendalami sistem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tentang Saya
+- 💻 **Fokus:** Web Development, Python, & Machine Learning.
+- 🎓 **Pendidikan:** Mahasiswa Informatika / Ilmu Komputer.
+- 🏸 **Hobi:** Main badminton dan ngikutin skena *esports*.
+
+### 🛠️ Tech Stack & Tools
+- **Bahasa Pemrograman:** Python, JavaScript, HTML, CSS
+- **Pengembangan:** Git, GitHub, Progressive Web Apps (PWA)
+
+---
+
+### 🌐 Hubungi Saya
+- GitHub: [@MartinAwaludin111](https://github.com/MartinAwaludin111)
