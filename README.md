@@ -1,49 +1,99 @@
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Martin!</h1>
-<h3 align="center">Informatics Student & Tech Enthusiast 🚀</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There!%20I'm%20Martin%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%26%20Tech%20Enthusiast%20🚀&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <i>"Code. Train Models. Smash Shuttlecocks. Repeat."</i>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Train+Models.+Smash+Shuttlecocks.+Repeat.;Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+%26+Mobile+Developer+%F0%9F%92%BB;Badminton+Player+On+The+Side+%F0%9F%8F%B8" alt="Typing SVG" />
+</a>
 
----
+<img src="https://profile-counter.glitch.me/mrtttnn_/count.svg" alt="visitor count" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages & Web -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br>
-  <!-- Frameworks, ML & Local Server -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=laragon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-DD3412?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile_Dev-339933?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-DD3412?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+<br>
 
 ### 🎯 Focus Areas
-* 🤖 **Machine Learning & Deep Learning:** Eksplorasi model kecerdasan buatan & data.
-* 🌐 **Web Development:** Membangun aplikasi web interaktif (PHP/Laravel & JavaScript).
-* 📱 **Mobile Development:** Pengembangan aplikasi mobile yang responsif.
 
----
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+- 🤖 **Machine Learning & Deep Learning** — Eksplorasi model kecerdasan buatan & data
+- 🌐 **Web Development** — Membangun aplikasi web interaktif (PHP/Laravel & JavaScript)
+- 📱 **Mobile Development** — Pengembangan aplikasi mobile yang responsif
+- 📊 **Data Enthusiast** — Suka ngoprek dataset dan bikin insight dari data
+
+<br clear="right">
 
 ### ⚡ Fun Facts & Hobbies
-* 🏸 **Badminton:** Suka main di lapangan (ngadu smash tipis-tipis).
-* 🏋️ **Gym:** Jaga kebugaran badan di sela-sela debugging kode.
-* ⚽ **Sepakbola:** Suka nonton dan main bola.
 
----
+| | |
+|---|---|
+| 🏸 **Badminton** | Suka main di lapangan (ngadu smash tipis-tipis) |
+| 🏋️ **Gym** | Jaga kebugaran badan di sela-sela debugging kode |
+| ⚽ **Sepakbola** | Suka nonton dan main bola |
+
+<br>
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtttnn_&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtttnn_&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtttnn_&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtttnn_&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrtttnn_&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+</p>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<br>
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
