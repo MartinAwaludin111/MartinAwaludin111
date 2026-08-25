@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There!%20I'm%20Martin%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%26%20Tech%20Enthusiast%20🚀&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I%20am%20Martin%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%26%20Tech%20Enthusiast%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Train+Models.+Smash+Shuttlecocks.+Repeat.;Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+%26+Mobile+Developer+%F0%9F%92%BB;Badminton+Player+On+The+Side+%F0%9F%8F%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Train+Models.+Smash+Shuttlecocks.+Repeat.;Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Badminton+Player+On+The+Side" alt="Typing SVG" />
 </a>
 
-<img src="https://profile-counter.glitch.me/mrtttnn_/count.svg" alt="visitor count" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mrtttnn_&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="visitor count" />
 
 </div>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 Tech Stack & Tools
 
@@ -38,14 +38,10 @@
 
 ### 🎯 Focus Areas
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
 - 🤖 **Machine Learning & Deep Learning** — Eksplorasi model kecerdasan buatan & data
 - 🌐 **Web Development** — Membangun aplikasi web interaktif (PHP/Laravel & JavaScript)
 - 📱 **Mobile Development** — Pengembangan aplikasi mobile yang responsif
 - 📊 **Data Enthusiast** — Suka ngoprek dataset dan bikin insight dari data
-
-<br clear="right">
 
 ### ⚡ Fun Facts & Hobbies
 
