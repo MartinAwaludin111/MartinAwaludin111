@@ -80,6 +80,14 @@
 
 <br>
 
+### 📊 Commit Activity Graph
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinAwaludin111&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+<br>
+
 ### 🐍 Contribution Snake
 
 <p align="center">
