@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I%20am%20Martin%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%26%20Tech%20Enthusiast%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There%20I%20am%20Martin%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%26%20Tech%20Enthusiast%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Train+Models.+Smash+Shuttlecocks.+Repeat.;Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Badminton+Player+On+The+Side" alt="Typing SVG" />
@@ -8,9 +8,15 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mrtttnn_&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=MartinAwaludin111&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="visitor count" />
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</p>
 
 <br>
 
@@ -38,10 +44,14 @@
 
 ### 🎯 Focus Areas
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280">
+
 - 🤖 **Machine Learning & Deep Learning** — Eksplorasi model kecerdasan buatan & data
 - 🌐 **Web Development** — Membangun aplikasi web interaktif (PHP/Laravel & JavaScript)
 - 📱 **Mobile Development** — Pengembangan aplikasi mobile yang responsif
 - 📊 **Data Enthusiast** — Suka ngoprek dataset dan bikin insight dari data
+
+<br clear="right">
 
 ### ⚡ Fun Facts & Hobbies
 
@@ -56,16 +66,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtttnn_&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtttnn_&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MartinAwaludin111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinAwaludin111&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtttnn_&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinAwaludin111&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrtttnn_&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MartinAwaludin111&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
 </p>
 
 <br>
